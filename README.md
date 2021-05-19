@@ -13,10 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanukaperera&layout=compact&hide=makefile&theme=prussian" alt="Most used languages" /></p>
+
+-->
+
+
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dhanukaperera&show_icons=true&count_private=true&hide=issues,contribs&theme=prussian" alt="GitHub stats" /></p>
 
