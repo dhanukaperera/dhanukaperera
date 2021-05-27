@@ -1,7 +1,9 @@
-### Hi there 👋
+
 
 <!--
 **dhanukaperera/dhanukaperera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -15,16 +17,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanukaperera&layout=compact&hide=makefile&theme=prussian" alt="Most used languages" /></p>
 
--->
-
-
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dhanukaperera&show_icons=true&count_private=true&hide=issues,contribs&theme=prussian" alt="GitHub stats" /></p>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanukaperera&theme=prussian" alt="usmcamgrimm" /></p>
 
 <p align="center">
 <img alig src="https://github-profile-trophy.vercel.app/?username=dhanukaperera&margin-w=8&column=4&theme=darkhub&no-frame=true" alt="github trophies" />
 </p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanukaperera&layout=compact&hide=makefile&theme=prussian" alt="Most used languages" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dhanukaperera&show_icons=true&count_private=true&hide=issues,contribs&theme=prussian" alt="GitHub stats" /></p>
+
+-->
+
+Coding Since 2010 👨‍💻
+
+* Core Languages : JavaScript, TypeScript, Java, Python
+* Frontend : React, Angular, Gatsby, NextJS, HTML, CSS
+* Backend : Node JS, Spring Boot, Flask, Django 
+* Mobile : React Native, Android, iOS Dev
+* Learning Game Development
+
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanukaperera&theme=prussian" alt="usmcamgrimm" /></p>
+
+
