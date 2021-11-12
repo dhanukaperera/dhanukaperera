@@ -33,9 +33,9 @@ Coding Since 2010 👨‍💻
 
 * Core Languages : JavaScript, TypeScript, Java, Python
 * Frontend : React, Angular, Gatsby, NextJS, HTML, CSS
-* Backend : Node JS, Spring Boot, Flask, Django 
+* Backend : Serverless and AWS, Node JS, Spring Boot, Flask, Django 
 * Mobile : React Native, Android, iOS Dev
-* Learning Game Development
+* Learning Game Development 🎮 
 
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanukaperera&theme=prussian" alt="usmcamgrimm" /></p>
