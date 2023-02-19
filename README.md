@@ -34,7 +34,7 @@ Coding Since 2010 👨‍💻
 * Core Languages : JavaScript, TypeScript, Java, Python
 * Frontend : React, Angular, Gatsby, NextJS, HTML, CSS
 * Backend : Serverless and AWS, Node JS, Spring Boot, Flask, Django 
-* Mobile : React Native, Android, iOS Dev
+* Mobile : Flutter, React Native, Android, iOS Dev
 * Learning Game Development 🎮 
 
 
