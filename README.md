@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 -->
 
+
+
 Coding Since 2010 👨‍💻
 
 * Core Languages : JavaScript, TypeScript, Java, Python
@@ -38,6 +40,10 @@ Coding Since 2010 👨‍💻
 * Learning Game Development 🎮 
 
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanukaperera&theme=prussian" alt="usmcamgrimm" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanukaperera&theme=prussian" alt="dhanukaperera" /></p>
+
+<p align="center" ><a href="https://github.com/dhanukaperera/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanukaperera&layout=compact&theme=prussian&hide_border=false&langs_count=10" /></a>
+</p>
+
 
 
