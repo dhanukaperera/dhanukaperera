@@ -50,7 +50,7 @@ Coding Since 2010 👨‍💻
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 May 2021 - To: 28 February 2023
+From: 15 May 2021 - To: 01 March 2023
 
 Total Time: 1,094 hrs 32 mins
 
