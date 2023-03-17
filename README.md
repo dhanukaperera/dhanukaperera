@@ -42,10 +42,10 @@ Coding Since 2010 👨‍💻
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanukaperera&theme=prussian" alt="dhanukaperera" /></p>
 
-<!--
+
 <p align="center" ><a href="https://github.com/dhanukaperera/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanukaperera&layout=compact&theme=prussian&hide_border=false&langs_count=10" /></a>
 </p>
--->
+
 
 <!--START_SECTION:waka-->
 
