@@ -50,7 +50,7 @@ Coding Since 2010 👨‍💻
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 May 2021 - To: 03 May 2023
+From: 15 May 2021 - To: 04 May 2023
 
 Total Time: 1,169 hrs 39 mins
 
@@ -64,7 +64,6 @@ YAML                       26 hrs 48 mins  >------------------------   02.29 %
 Python                     22 hrs 47 mins  -------------------------   01.95 %
 XML                        21 hrs 21 mins  -------------------------   01.83 %
 Markdown                   13 hrs 54 mins  -------------------------   01.19 %
-Text                       9 hrs 36 mins   -------------------------   00.82 %
 ```
 
 <!--END_SECTION:waka-->
