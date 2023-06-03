@@ -49,8 +49,8 @@ Coding Since 2010 👨‍💻
 
 <!--START_SECTION:waka-->
 
-```text
-From: 15 May 2021 - To: 31 May 2023
+```txt
+From: 15 May 2021 - To: 01 June 2023
 
 Total Time: 1,172 hrs 44 mins
 
