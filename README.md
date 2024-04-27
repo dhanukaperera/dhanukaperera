@@ -50,20 +50,20 @@ Coding Since 2010 👨‍💻
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 May 2021 - To: 24 April 2024
+From: 15 May 2021 - To: 25 April 2024
 
-Total Time: 1,798 hrs 26 mins
+Total Time: 1,802 hrs 28 mins
 
-TypeScript                 663 hrs 35 mins >>>>>>>>>----------------   36.90 %
-Dart                       494 hrs 40 mins >>>>>>>------------------   27.51 %
-JavaScript                 300 hrs 18 mins >>>>---------------------   16.70 %
-Java                       54 hrs 2 mins   >------------------------   03.01 %
+TypeScript                 667 hrs 35 mins >>>>>>>>>----------------   37.04 %
+Dart                       494 hrs 40 mins >>>>>>>------------------   27.44 %
+JavaScript                 300 hrs 18 mins >>>>---------------------   16.66 %
+Java                       54 hrs 2 mins   >------------------------   03.00 %
 JSON                       45 hrs 43 mins  >------------------------   02.54 %
-YAML                       45 hrs 20 mins  >------------------------   02.52 %
+YAML                       45 hrs 21 mins  >------------------------   02.52 %
 GraphQL                    33 hrs 29 mins  -------------------------   01.86 %
 Python                     22 hrs 51 mins  -------------------------   01.27 %
 XML                        21 hrs 23 mins  -------------------------   01.19 %
-Markdown                   18 hrs 49 mins  -------------------------   01.05 %
+Markdown                   18 hrs 49 mins  -------------------------   01.04 %
 ```
 
 <!--END_SECTION:waka-->
