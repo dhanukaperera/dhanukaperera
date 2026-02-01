@@ -50,11 +50,11 @@ Coding Since 2010 👨‍💻
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 May 2021 - To: 29 January 2026
+From: 15 May 2021 - To: 30 January 2026
 
-Total Time: 2,593 hrs 10 mins
+Total Time: 2,593 hrs 15 mins
 
-TypeScript                 1,295 hrs 42 mins>>>>>>>>>>>>-------------   49.97 %
+TypeScript                 1,295 hrs 47 mins>>>>>>>>>>>>-------------   49.97 %
 Dart                       494 hrs 40 mins >>>>>--------------------   19.08 %
 JavaScript                 327 hrs 24 mins >>>----------------------   12.63 %
 JSON                       85 hrs 34 mins  >------------------------   03.30 %
